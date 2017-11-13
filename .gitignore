@@ -1,0 +1,15 @@
+.temp
+tests
+*.class
+g.in
+solutions/bfs_moliveira
+solutions/cairo_b3
+solutions/cairo_b3_slow
+solutions/dfs_moliveira
+solutions/g_17507
+solutions/g_17507_215
+solutions/g_17507_226
+source/g_gen
+source/g_gen2
+source/validate
+tests-visual.html
